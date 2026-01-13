@@ -11,7 +11,7 @@
 > [Chen Min](https://chaytonmin.github.io/minchen/)<sup>1</sup>, [Shubin Si](https://scholar.google.com/citations?user=4fl5KKoAAAAJ&hl=zh-CN)<sup>2</sup>, Xu Wang<sup>3</sup>, Hanzhang Xue<sup>4</sup>, Weizhong Jiang<sup>5</sup>, [Jilin Mei](https://scholar.google.com/citations?user=WOQhmr8AAAAJ&hl=zh-CN)<sup>1</sup>, [Hao Fu](https://scholar.google.com/citations?user=vQ0sqOIAAAAJ&hl=zh-CN)<sup>6</sup>, Dawei Zhao<sup>5</sup>, [Liang Xiao](https://scholar.google.com/citations?user=hvxSnzoAAAAJ&hl=zh-CN)<sup>5</sup>, Yiming Nie<sup>5</sup>, and [Yu Hu](https://scholar.google.com/citations?user=VPA-MkkAAAAJ&hl=zh-CN)<sup>1</sup>
 > 
 > <sup>1</sup> Research Center for Intelligent Computing Systems, SKLP, Institute of Computing Technology, Chinese Academy of Sciences, <sup>2</sup> Harbin Engineering University, <sup>3</sup> Jianghuai Advance Technology Center, Anhui Provincial Key Laboratory of Humanoid Robot, Anhui Provincial Industry Innovation Center of Humanoid Robot, <sup>4</sup> Test Center, National University of Defense Technology, <sup>5</sup> Defense Innovation Institute, <sup>6</sup> National University of Defense Technology
->
+> Email:mincheng@ict.ac.cn
 
 <p align="center">
 <img src="doc/tax.png" width="720px"/>  
